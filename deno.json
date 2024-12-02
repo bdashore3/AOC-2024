@@ -1,0 +1,9 @@
+{
+  "workspace": ["./day-1"],
+  "fmt": {
+    "indentWidth": 4,
+    "semiColons": true,
+    "include": ["**/*.ts"],
+    "lineWidth": 80
+  }
+}
