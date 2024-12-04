@@ -1,5 +1,5 @@
 {
-  "workspace": ["./day-1", "./day-2"],
+  "workspace": ["./day-1", "./day-2", "./day-3"],
   "fmt": {
     "indentWidth": 4,
     "semiColons": true,
